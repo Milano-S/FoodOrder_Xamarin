@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\bin\Debug\netstandard2.0\FoodOrder_Xamarin.deps.json
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\bin\Debug\netstandard2.0\FoodOrder_Xamarin.dll
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\bin\Debug\netstandard2.0\FoodOrder_Xamarin.pdb
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.AssemblyInfo.cs
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.dll
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\refint\FoodOrder_Xamarin.dll
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\FoodOrder_Xamarin.pdb
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\ref\FoodOrder_Xamarin.dll
+C:\Users\user\source\repos\FoodOrder_Xamarin\FoodOrder_Xamarin\FoodOrder_Xamarin\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
